@@ -651,8 +651,7 @@ public class StepDef_SC89933 extends CucumberGenericTest{
 //			  Given User is in login page
 //			  When User enteres the credentials and click on login Button 
 //			  And Click On New Button
-//			  And Select PhoneCall Option
-//			  And Create new debt Advice case
+
 			
 		
 	
